@@ -1,5 +1,5 @@
 # Projeto Lipeflix é baseado em um site de Filmes
-## Projeto desenvolvido utilizando React, organizado com componentes e utilizando o useState.
+## Desenvolvido utilizando React, organizado com componentes e utilizando o useState.
 ### O projeto consome a API <a href="https://www.omdbapi.com/">The Open Movie Database</a> 
 ### A API OMDb é um serviço web RESTful para obter informações sobre filmes, todo o conteúdo e as imagens do site são contribuídos e mantidos por usuários.
 
